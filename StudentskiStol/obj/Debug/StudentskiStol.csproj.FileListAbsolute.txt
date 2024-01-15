@@ -1,0 +1,11 @@
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\bin\Debug\StudentskiStol.exe.config
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\bin\Debug\StudentskiStol.exe
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\bin\Debug\StudentskiStol.pdb
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.Form1.resources
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.Properties.Resources.resources
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.exe
+C:\Users\STUDENTS-1409-2\Desktop\12a\StudentskiStol\obj\Debug\StudentskiStol.pdb
